@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "Java_Programming",
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.debug.settings.onBuildFailureProceed": true
+	}
+}
