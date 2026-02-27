@@ -147,7 +147,7 @@ public class sort {
         int [] arr={20,10,50,40};
     Mergesort(arr, 0, arr.length-1);
         printarr(arr);
-        //System.out.println("Try programiz.pro");
+        
     }
 }
 

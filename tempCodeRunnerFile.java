@@ -1,0 +1,1 @@
+Arrays.sort(ratio, comparator.comparingDouble(o->o[1]));
